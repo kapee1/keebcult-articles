@@ -1,37 +1,36 @@
-# Keebcult Wiki — База знаний о механических клавиатурах
+# Keebcult Wiki - База знаний о механических клавиатурах
 
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)
-![Jekyll](https://img.shields.io/badge/Jekyll-4.2-blue)
-![Just the Docs](https://img.shields.io/badge/Just%20the%20Docs-0.7-green)
-![License](https://img.shields.io/badge/License-MIT-green)
+Полная интерактивная база знаний о механических клавиатурах, их выборе, сборке, модификации и уходе.
 
-Полная база знаний о механических клавиатурах, переведённая из Notion в GitHub Pages с использованием темы **Just the Docs**.
+## O сайте
 
-## 📖 Содержание
+Это репозиторий GitHub Pages для [Keebcult](https://keebcult.notion.site) - образовательного проекта о механических клавиатурах.
 
-Сайт содержит подробную информацию о:
+Сайт использует [Jekyll](https://jekyllrb.com/) с темой [Just the Docs](https://just-the-docs.github.io/just-the-docs/).
 
-- **Клавиатуры** — выбор, типы крепления, сборка
-- **Свичи** — типы, рекомендации, линейные свичи для новичков
-- **Стабилизаторы** — выбор, установка, модификации
-- **Кейкапы** — профили, материалы, ценовые категории
-- **Инструменты** — всё необходимое для сборки
-- **Статьи от комьюнити** — гайды и обзоры от опытных пользователей
-- **Полезные ресурсы** — словарь терминов, магазины, ссылки
+## Содержание
 
-## 🚀 Быстрый старт
+- **[Клавиатуры](docs/keyboards/)** — Всё о выборе и сборке кастомных клавиатур
+- **[Свичи](docs/switches/)** — Типы переключателей и рекомендации
+- **[Стабилизаторы](docs/stabilizers/)** — Правильный выбор и установка
+- **[Кейкапы](docs/keycaps/)** — Материалы, профили и цены
+- **[Инструменты](docs/tools/)** — Необходимое оборудование для сборки
+- **[Сообщество](docs/community/)** — Информация о сообществе
+- **[Полезные ресурсы](docs/resources/)** — Справочная информация и ссылки
+
+## Локальное запуска
 
 ### Требования
 
-- Ruby 2.7 или выше
+- Ruby 2.7+
+- Jekyll 3.9+
 - Bundler
-- Git
 
-### Локальная установка и запуск
+### Установка и запуск
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/YOUR_USERNAME/keebcult-articles.git
+git clone https://github.com/yourusername/keebcult-articles.git
 cd keebcult-articles
 
 # Установите зависимости
@@ -39,80 +38,44 @@ bundle install
 
 # Запустите локальный сервер
 bundle exec jekyll serve
+
+# Сайт будет доступен на http://localhost:4000/keebcult-articles/
 ```
 
-Откройте `http://localhost:4000` в браузере.
-
-## 📝 Структура проекта
+## Структура проекта
 
 ```
 keebcult-articles/
-├── _config.yml           # Конфигурация Jekyll
-├── index.md              # Главная страница
-├── DEPLOYMENT.md         # Гайд по развертыванию  
+├── _config.yml          # Конфигурация Jekyll
 ├── Gemfile              # Зависимости Ruby
-├── docs/
-│   ├── keyboards/       # Раздел о клавиатурах
-│   ├── switches/        # Раздел о свичах
-│   ├── stabilizers/     # Раздел о стабилизаторах
-│   ├── keycaps/         # Раздел о кейкапах
-│   ├── tools/           # Раздел об инструментах
-│   ├── community/       # Статьи от комьюнити
-│   └── resources/       # Полезные ресурсы
-└── .gitignore          # Git исключения
+├── index.md             # Начальная страница
+├── README.md            # Этот файл
+└── docs/
+    ├── keyboards/       # Статьи о клавиатурах
+    ├── switches/        # Статьи о свичах
+    ├── stabilizers/     # Статьи о стабилизаторах
+    ├── keycaps/         # Статьи о кейкапах
+    ├── tools/           # Статьи об инструментах
+    ├── community/       # Информация о сообществе
+    └── resources/       # Справочные материалы
 ```
 
-## 🌐 Развертывание на GitHub Pages
+## Вклад
 
-Подробные инструкции см. в [DEPLOYMENT.md](DEPLOYMENT.md).
+Заинтересованы в добавлении содержимого? Свяжитесь с нами через:
 
-### Быстро:
+- **Telegram:** [@keebcult](https://t.me/keebcult)
+- **Discord:** [Keebcult Server](https://discord.gg/JkTY44Yj)
 
-1. Создайте новый репозиторий на GitHub
-2. Отправьте код: `git push origin main`
-3. В Settings → Pages выберите `main` branch
-4. Ждите 3-5 минут, сайт будет доступен по адресу: `https://YOUR_USERNAME.github.io/keebcult-articles/`
+## Почта/Контакты
 
-## ✨ Особенности
+- **Telegram канал:** https://t.me/keebcult
+- **YouTube:** https://www.youtube.com/@keebcult
 
-- **Just the Docs** — красивая, отзывчивая тема
-- **Поиск** — встроенный поиск по всему сайту
-- **Навигация** — удобная иерархическая структура
-- **Тёмный режим** — поддержка тёмной темы
-- **Мобильный** — оптимизировано для всех устройств
+## Лицензия
 
-## 📱 Сообщество Keebcult
-
-- 💬 [Telegram чат](https://t.me/keebcult)
-- 📢 [Telegram канал](https://t.me/+k9ktANQjmf8zN2Qy)
-- 🎥 [YouTube канал](https://www.youtube.com/@keebcult)
-- 🎮 [Discord сервер](https://discord.gg/JkTY44Yj)
-
-## 📄 Лицензия
-
-MIT License - см. файл LICENSE
-
-## 🤝 Вклад
-
-Все приветствуются! Если вы хотите добавить статью или исправить ошибку:
-
-1. Сделайте форк репозитория
-2. Создайте новую ветку (`git checkout -b feature/новая-статья`)
-3. Коммитите изменения (`git commit -am 'Добавлена новая статья'`)
-4. Отправьте в ветку (`git push origin feature/новая-статья`)
-5. Откройте Pull Request
-
-## 🛠️ Версии
-
-- **Jekyll** 4.2+
-- **Just the Docs** 0.7
-- **Ruby** 2.7+
-
-## 📧 Контакты и поддержка
-
-- Форма для вопросов: https://forms.gle/g7tgJ7bDHn9FAnHN6
-- Обратная связь: https://t.me/+ZyzFf2iS72NhZDIy
+Все содержимое на этом сайте доступно для образовательных целей.
 
 ---
 
-**Создано для сообщества Keebcult** 🎹
+**Keebcult** — это образовательный проект, посвященный механическим клавиатурам и клавиатурному хобби.
