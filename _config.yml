@@ -1,6 +1,6 @@
 title: Keebcult Wiki
 description: Полная база знаний о механических клавиатурах
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://yourusername.github.io"
 baseurl: "/keebcult-articles"
 
@@ -35,6 +35,12 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-paginate
+
 # Jekyl defaults
 defaults:
   - scope:
@@ -42,4 +48,3 @@ defaults:
       type: "docs"
     values:
       layout: "default"
-      parent: "Документация"
