@@ -1,0 +1,45 @@
+title: Keebcult Wiki
+description: Полная база знаний о механических клавиатурах
+theme: just-the-docs
+url: "https://yourusername.github.io"
+baseurl: "/keebcult-articles"
+
+search_enabled: true
+search:
+  heading_level: 2
+
+# Footer
+footer_content: "Keebcult - Образовательный ресурс о механических клавиатурах"
+
+# Navigation
+aux_links:
+  "Telegram": https://t.me/keebcult
+  "YouTube": https://www.youtube.com/@keebcult
+  "Discord": https://discord.gg/JkTY44Yj
+
+# Color scheme (light or dark)
+color_scheme: "light"
+
+# Enable heading anchors
+heading_anchors: true
+
+# Breadcrumbs
+breadcrumbs:
+  root:
+    label: "Главная"
+  skip_versions: true
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Jekyl defaults
+defaults:
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+      parent: "Документация"

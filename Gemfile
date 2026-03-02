@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.2"
+gem "just-the-docs", "~> 0.7"
+gem "webrick", "~> 1.7"
