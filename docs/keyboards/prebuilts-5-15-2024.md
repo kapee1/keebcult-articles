@@ -17,35 +17,38 @@ nav_order: 4
 
 ![Image 1](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2Fdcdd0f73-4ac9-4a8a-af9a-ef8485da23b1%2FUntitled.jpeg?table=block&id=6e496bc9-c0a0-495b-a29f-4d95596df999&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Спеки:
+**Спеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 61
-
-Тип крепления: gasket mount
-
-Плейт: поликарбонат
-
-Переключатели: Cidoo Pearl White
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Цвета: черный/белый
-
-Шумоизоляция: 5 слоев (включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 3000 мАч
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>61</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Cidoo Pearl White</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Цвета</dt>
+  <dd>черный/белый</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>3000 мАч</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Шисятка от CIDOO которая по сути является прокачанной версией кита GMK61, в которую ввели поддержку QMK\VIA, крайне необходимой штуки в маленьких формфакторах. Рассказывать особенно нечего, просто хочу отметить что это единственный адекватный вариант 60% в данном бюджете.
 
@@ -53,35 +56,38 @@ nav_order: 4
 
 ![Image 2](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F831e0a13-90fd-47c4-98c3-19dcadeb2c35%2Fca9fddc1-1871-4f72-8625-4335f48401d8.png?table=block&id=d9bb615e-9b5f-468b-ba3e-e072a1f4d644&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1020&userId=&cache=v2)
 
-Спеки:
+**Спеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 67
-
-Тип крепления: gasket mount
-
-Плейт: поликарбонат
-
-Переключатели: FEKER Линейные White Jade V2 \ Тактильные Matcha
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: OEM профиль, PBT
-
-Цвета: коричневый/белый
-
-Шумоизоляция: 5 слоев
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 4000 мАч
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>67</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>FEKER Линейные White Jade V2 \ Тактильные Matcha</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>OEM профиль, PBT</dd>
+  <dt>Цвета</dt>
+  <dd>коричневый/белый</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>4000 мАч</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Обычный пластиковый пребилд аля GMK67. Тримод, гаскет маунт, роллер.
 
@@ -95,25 +101,28 @@ nav_order: 4
 
 слева направо
 
-Спеки:
+**Спеки:**
 
-Материал корпуса: АБС пластик
-
-Количество клавиш: 78\81\81
-
-Тип крепления: gasket mount
-
-Хотсвап: присутствует
-
-Плейт: поликарбонат
-
-Подключение: Tri-mode\Tri-mode\Wired
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>АБС пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>78\81\81</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Хотсвап</dt>
+  <dd>присутствует</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode\Tri-mode\Wired</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Я решил объединить эти три клавиатуры в одну подкатегорию, т.к. нахожу их относительно идентичными. Могу лишь сказать, что я бы не стал брать РК Р75, так как в ней отсутствует тот самый PET слой, который делает вашу клаву более thocky. Но имеет неоспоримое преимущество для начинающих - возможность выбрать кириллицу.
 
@@ -127,35 +136,36 @@ nav_order: 4
 
 остальные расцветки можно посмотреть по ссылке на Ali
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: АБС пластик
-
-Количество клавиш: 87
-
-Тип крепления: gasket mount
-
-Плейт: поликарбонат
-
-Переключатели: Xinmeng Ebony (Dark Plum)\TTC Steel Superman\Outemu White
-
-Jade\Outemu Silent Peach V2\Gateron G PRO Yellow
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: ОЕМ профиль, PBT
-
-Шумоизоляция: 5 слоев (включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth) \ Wired
-
-Подсветка: Есть
-
-Аккумулятор: 4000mAh
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>АБС пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>87</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Xinmeng Ebony (Dark Plum)\TTC Steel Superman\Outemu White Jade\Outemu Silent Peach V2\Gateron G PRO Yellow</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>ОЕМ профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth) \ Wired</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>4000mAh</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 TKL который фактически не имеет конкурентов в бюджете по совокупности характеристик, имеет неплохие пбт кейкапы, дефолтный набор шумок, силикон гаскет маунт и достаточно внушительный выбор переключателей, заявлены даже сайленты.
 
@@ -165,33 +175,36 @@ TKL который фактически не имеет конкурентов �
 
 ![Image 5](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F59ddfa49-f31f-4ddd-8f79-9036e1834d79%2F%25D0%2591%25D0%25B5%25D0%25B7-%25D0%25B8%25D0%25BC%25D0%25B5%25D0%25BD%25D0%25B8-1.jpg?table=block&id=9515e1c0-5de9-4e56-b3b6-ee8fa4ca978d&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 99
-
-Тип крепления: gasket mount
-
-Плейт: поликарбонат
-
-Переключатели: Outemu White Jade
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: ОЕМ профиль, PBT
-
-Шумоизоляция: 5 слоев (включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 4600mAh
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>99</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Outemu White Jade</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>ОЕМ профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>4600mAh</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 X98PRO очень напоминает M87PRO, только в большем лейауте и с меньшим выбором по свичам в бюджете (версии с TTC стоят больше 7к, например).
 
@@ -201,33 +214,36 @@ X98PRO очень напоминает M87PRO, только в большем л
 
 ![Image 6](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2Fbe36a78a-af25-42fb-8b2f-9d2322f69d97%2F%25D0%2591%25D0%25B5%25D0%25B7-%25D0%25B8%25D0%25BC%25D0%25B5%25D0%25BD%25D0%25B8-5.jpg?table=block&id=27f1db48-c100-4960-88dd-7a1cf6c401ca&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 99
-
-Тип крепления: gasket mount
-
-Плейт: поликарбонат
-
-Переключатели: Leobog Graywood V3 \ Leobog Reaper
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: ОЕМ профиль, PBT
-
-Шумоизоляция: 5 слоев (включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 8000mAh
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>99</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Leobog Graywood V3 \ Leobog Reaper</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>ОЕМ профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>8000mAh</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Thocky саунд, легкий намек на флекс, пластиковый корпус набитый доверху шумкой, тримод и свичи от Леобог в придачу.
 
@@ -243,33 +259,36 @@ Xinmeng M71\M67
 
 Yunzii AL71
 
-Спеки:
+**Спеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 71\67
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: Outemu White Jade
-
-Хотсвап: TTC, 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 4600 мАч
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>71\67</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Outemu White Jade</dd>
+  <dt>Хотсвап</dt>
+  <dd>TTC, 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>4600 мАч</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Да, M71 не 65%, но и в 75% засунуть ее нельзя, так что будет тут.
 
@@ -293,35 +312,38 @@ Xinmeng A66
 
 Yunzii AL66
 
-Спеки:
+**Спеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 65
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: Xinmeng Ebony (Dark Plum) \ TTC Steel Superman \ Yunzii Milk
-
-Хотсвап: TTC, 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Цвета: серебро, фиолетовый, черный.
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-mode (провод, 2.4ггц радиоканал, bluetooth)
-
-Подсветка: Есть
-
-Аккумулятор: 4600 мАч
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>65</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Xinmeng Ebony (Dark Plum) \ TTC Steel Superman \ Yunzii Milk</dd>
+  <dt>Хотсвап</dt>
+  <dd>TTC, 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Цвета</dt>
+  <dd>серебро, фиолетовый, черный.</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-mode (провод, 2.4ггц радиоканал, bluetooth)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Аккумулятор</dt>
+  <dd>4600 мАч</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Клавиатуры являются по сути альтернативной версией M67, только с крутилкой.
 
@@ -335,31 +357,34 @@ Yunzii AL66
 
 больше расцветок можно посмотреть по ссылке на Aliexpress
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 81
-
-Тип крепления: gasket mount
-
-Плейт: Полипропилен
-
-Переключатели: Leobog GrayWood V3, Leobog IceBlue, Leobog Nimbus V3, Leobog Juggle V2
-
-Хотсвап: 3 & 5 pin
-
-Кейкапы: MOA\MDA профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Только проводное (Wired)
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>81</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Полипропилен</dd>
+  <dt>Переключатели</dt>
+  <dd>Leobog GrayWood V3, Leobog IceBlue, Leobog Nimbus V3, Leobog Juggle V2</dd>
+  <dt>Хотсвап</dt>
+  <dd>3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>MOA\MDA профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Только проводное (Wired)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Неплохая семесятпятка которая сильно хайпилась осенью 2023 года.
 
@@ -381,31 +406,34 @@ Cпеки:
 
 Frosted & Carbon
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 60
-
-Тип крепления: tray mount
-
-Плейт: Сталь
-
-Переключатели: Keychron K Pro Red\Blue\Brown
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: OSA профиль, PBT
-
-Шумоизоляция: 2 слоя
-
-Подключение: Только проводное (Wired)
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>60</dd>
+  <dt>Тип крепления</dt>
+  <dd>tray mount</dd>
+  <dt>Плейт</dt>
+  <dd>Сталь</dd>
+  <dt>Переключатели</dt>
+  <dd>Keychron K Pro Red\Blue\Brown</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>OSA профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>2 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Только проводное (Wired)</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Первая и последняя шисятка в гайде.
 
@@ -427,33 +455,36 @@ OSA имеют высоту как у OEM, но впуклость как у SA,
 
 ![Image 13](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F4dc34e2f-24e4-4602-8a8c-325b1f0d0291%2FS34106b9b3311421c94e779d982a123ffk.jpg_640x640.webp?table=block&id=a47f092d-d378-4cd2-903f-88c0568ae4bf&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1280&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 66
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: Quark Quake Matte
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 3 слоя
-
-Подключение: Провод\Bluetooth
-
-Емкость аккумулятора: 3000мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>66</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Quark Quake Matte</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>3 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Провод\Bluetooth</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3000мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Шисятпятка с неким ретро-вайбом.
 
@@ -467,33 +498,36 @@ VIA, бодрые линейные переключатели с Haimu ману�
 
 ![Image 14](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2Facc53b03-004b-4301-913b-a7ac8b4b5698%2FUntitled.jpeg?table=block&id=ed3f7c4a-e22f-4b67-8974-3e7f126ef1a3&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 82
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат\FR4
-
-Переключатели: Kailh BOX Iceberry Cream PRO \ VGN Ania
-
-Хотсвап: 3 & 5 pin
-
-Кейкапы: OEM профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 3000\6000 мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>82</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат\FR4</dd>
+  <dt>Переключатели</dt>
+  <dd>Kailh BOX Iceberry Cream PRO \ VGN Ania</dd>
+  <dt>Хотсвап</dt>
+  <dd>3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>OEM профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3000\6000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Солидная алюминиевая семесятпятка с претензией на премиум. Толстые пбт капы, порон гаскет маунт, приятный на ощупь анод\электрофорез, здравый выбор переключателей.
 
@@ -533,33 +567,36 @@ Cпеки:
 
 ![Image 15](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F2e57164d-0ee4-4125-be50-deb3dee5d06e%2FUntitled.jpeg?table=block&id=4bd80f35-d4f1-4738-b84f-59c2d83d6ec8&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 83
-
-Тип крепления: gasket mount
-
-Плейт: Полипропилен\FR4
-
-Переключатели: HMX Violet \ JWK Wob
-
-Хотсвап: 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 3500\7000 мАч
-
-Подсветка: зависит от выбранной конфигурации
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>83</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Полипропилен\FR4</dd>
+  <dt>Переключатели</dt>
+  <dd>HMX Violet \ JWK Wob</dd>
+  <dt>Хотсвап</dt>
+  <dd>3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3500\7000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>зависит от выбранной конфигурации</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Так называемый Дождливо75 является идеальным воплощением бюджетной клавиатуры.
 
@@ -577,33 +614,36 @@ Cпеки:
 
 ![Image 18](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F165cb59b-d17d-49bf-af2c-8536e882ccd1%2FUntitled.jpeg?table=block&id=a836f490-6416-45d7-b1d3-493903016d0b&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 83
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат\FR4
-
-Переключатели: MMD Princess
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 4000\8000 мАч
-
-Подсветка: зависит от выбранной конфигурации
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>83</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат\FR4</dd>
+  <dt>Переключатели</dt>
+  <dd>MMD Princess</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>4000\8000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>зависит от выбранной конфигурации</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Новинка конца апреля 2024 года.
 
@@ -623,33 +663,36 @@ Cпеки:
 
 ![Image 20](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2Feb2a8ee8-43dc-4e2f-b4bc-e56252d4e809%2FUntitled.png?table=block&id=7ff7fd85-9828-450b-a7b7-0736188255f7&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1280&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 81
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: Quark Quake Matte
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 4 слоя
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 3000 мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>81</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Quark Quake Matte</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>4 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Клавиатура по сути является увеличенной версией Cidoo V65 (см. 65%), но имеет нормальные PCB-mount стабилизаторы в стоке и Tri-Mode.
 
@@ -659,33 +702,36 @@ Cпеки:
 
 ![Image 21](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F3987bf2b-b044-4aa9-9ad0-abbcc0018533%2FUntitled.png?table=block&id=6832dd1f-e811-4aaa-b9aa-aa01feab33d8&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 82
-
-Тип крепления: top mount \ silicagel partcle \ split O-Ring
-
-Плейт: Поликарбонат
-
-Переключатели: Gateron EF Dopamine Blue
-
-Хотсвап: 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 3600 мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>82</dd>
+  <dt>Тип крепления</dt>
+  <dd>top mount \ silicagel partcle \ split O-Ring</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Gateron EF Dopamine Blue</dd>
+  <dt>Хотсвап</dt>
+  <dd>3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3600 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 На ваших экранах ND75, 75-ти процентная клавиатура от гениев китайской клавиатурной мысли из CHILLKEY (создатели Paw65).
 
@@ -697,33 +743,36 @@ Cпеки:
 
 ![Image 22](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F62a28e8f-fe15-40c1-8916-5efa0d93312a%2FUntitled.png?table=block&id=fb998524-0c2f-4eaf-a136-6479b28cb95a&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1280&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 87
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: Quark Quake Matte
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 4 слоя
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 3000 мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>87</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>Quark Quake Matte</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>4 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>3000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Клавиатура по сути является увеличенной версией Cidoo V65 (см. 65%), но имеет нормальные PCB-mount стабилизаторы в стоке и Tri-Mode.
 
@@ -733,33 +782,36 @@ Cпеки:
 
 ![Image 23](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F41f6af49-4bea-46cd-8d4d-f9100bbe265b%2FUntitled.jpeg?table=block&id=86c0eef4-e0e3-4c45-80f3-996aa8d4a42a&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 87
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат
-
-Переключатели: AKKO V3 Cream Pro Yellow\Blue & Ice Cream Pink\Purple
-
-Хотсвап: 3 & 5 pin
-
-Кейкапы: OEM профиль, PBT
-
-Шумоизоляция: 3 слоя
-
-Подключение: Tri-Mode
-
-Емкость аккумулятора: 6000 мАч
-
-Подсветка: Есть
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>87</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат</dd>
+  <dt>Переключатели</dt>
+  <dd>AKKO V3 Cream Pro Yellow\Blue & Ice Cream Pink\Purple</dd>
+  <dt>Хотсвап</dt>
+  <dd>3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>OEM профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>3 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>6000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>Есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Вариант выше во всем лучше монсгика, но если по каким то причинам не устраивает Cidoo, то берем монсгик.
 
@@ -771,33 +823,36 @@ Cпеки:
 
 ![Image 24](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F14ec80a8-2236-4487-a664-d18a3ca1a9e7%2FUntitled.jpeg?table=block&id=539c667b-d5ee-4bf5-9ed0-2352c56db13b&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1420&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: Алюминий
-
-Количество клавиш: 99
-
-Тип крепления: gasket mount
-
-Плейт: Поликарбонат\FR4
-
-Переключатели: Sea Salt \ Huano Gift \ Ice cream \ KTT Hyacinth
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: Cherry профиль, PBT
-
-Шумоизоляция: 5 слоев (Включая PET)
-
-Подключение: Провод \ Tri-Mode
-
-Емкость аккумулятора: 4000 мАч
-
-Подсветка: в зависимости от конфигурации
-
-Совместимость: MAC/Windows/IOS/Android
-
-Софт: Проприетарный
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>Алюминий</dd>
+  <dt>Количество клавиш</dt>
+  <dd>99</dd>
+  <dt>Тип крепления</dt>
+  <dd>gasket mount</dd>
+  <dt>Плейт</dt>
+  <dd>Поликарбонат\FR4</dd>
+  <dt>Переключатели</dt>
+  <dd>Sea Salt \ Huano Gift \ Ice cream \ KTT Hyacinth</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>Cherry профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>5 слоев (Включая PET)</dd>
+  <dt>Подключение</dt>
+  <dd>Провод \ Tri-Mode</dd>
+  <dt>Емкость аккумулятора</dt>
+  <dd>4000 мАч</dd>
+  <dt>Подсветка</dt>
+  <dd>в зависимости от конфигурации</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows/IOS/Android</dd>
+  <dt>Софт</dt>
+  <dd>Проприетарный</dd>
+</dl>
 
 Интересная попытка китайцев в пародию на QK100, аналогов которой в данном бюджете не существует, это все что нужно знать.
 
@@ -815,31 +870,34 @@ Cпеки:
 
 ![Image 26](https://keebcult.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F05aa7824-3091-4efa-afa3-cf55d179499f%2F69134c20-f495-48e4-9a06-8c19a968f570%2FUntitled.png?table=block&id=54ec9640-c050-431d-b4c6-57b7f1d04cd2&spaceId=05aa7824-3091-4efa-afa3-cf55d179499f&width=1280&userId=&cache=v2)
 
-Cпеки:
+**Cпеки:**
 
-Материал корпуса: ABS пластик
-
-Количество клавиш: 108
-
-Тип крепления: Tray mount
-
-Плейт: Сталь
-
-Переключатели: Keychron K Pro Brown\Red
-
-Хотсвап: Kailh 3 & 5 pin
-
-Кейкапы: OSA профиль, PBT
-
-Шумоизоляция: 3 слоя
-
-Подключение: Провод
-
-Подсветка: есть
-
-Совместимость: MAC/Windows
-
-Софт: VIA
+<dl>
+  <dt>Материал корпуса</dt>
+  <dd>ABS пластик</dd>
+  <dt>Количество клавиш</dt>
+  <dd>108</dd>
+  <dt>Тип крепления</dt>
+  <dd>Tray mount</dd>
+  <dt>Плейт</dt>
+  <dd>Сталь</dd>
+  <dt>Переключатели</dt>
+  <dd>Keychron K Pro Brown\Red</dd>
+  <dt>Хотсвап</dt>
+  <dd>Kailh 3 & 5 pin</dd>
+  <dt>Кейкапы</dt>
+  <dd>OSA профиль, PBT</dd>
+  <dt>Шумоизоляция</dt>
+  <dd>3 слоя</dd>
+  <dt>Подключение</dt>
+  <dd>Провод</dd>
+  <dt>Подсветка</dt>
+  <dd>есть</dd>
+  <dt>Совместимость</dt>
+  <dd>MAC/Windows</dd>
+  <dt>Софт</dt>
+  <dd>VIA</dd>
+</dl>
 
 Вполне себе адекватный вариант полноразмерной (не 1800!!!) клавиатуры в бюджете По сути является увеличенной версией Keychron V4, значит и всё что сказано про V4 (см. 60%), здесь актуально.
 

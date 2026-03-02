@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Самостабилизаторы и моды
+title: Стабилизаторы и моды
 parent: Стабилизаторы
 nav_order: 2  
 ---
