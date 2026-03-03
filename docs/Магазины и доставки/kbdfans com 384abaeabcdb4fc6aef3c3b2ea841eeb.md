@@ -1,5 +1,6 @@
 ---
 title: "kbdfans.com"
+nav_exclude: true
 ---
 # kbdfans.com
 

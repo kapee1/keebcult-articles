@@ -1,5 +1,6 @@
 ---
 title: Видео про doubleshot, dye-sub и uv-printed кейкапы
+nav_exclude: true
 ---
 # Видео про doubleshot, dye-sub и uv-printed кейкапы
 

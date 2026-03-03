@@ -1,5 +1,6 @@
 ---
 title: "meletrix"
+nav_exclude: true
 ---
 # meletrix
 

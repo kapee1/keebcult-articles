@@ -1,16 +1,16 @@
 ---
-title: Все статьи
+title: Главная
 nav_order: 1
 ---
 
-# Все статьи
+# Главная
 
-{% assign docs_pages = site.pages
-	| where_exp: "p", "p.path contains 'docs/'"
-	| where_exp: "p", "p.name != 'index.md'"
-	| where_exp: "p", "p.ext == '.md'"
-	| sort: "title" %}
+Это вики Keebcult — база знаний о механических клавиатурах: от базовых терминов до практических гайдов по выбору, сборке и обслуживанию.
 
-{% for page in docs_pages %}
-- [{{ page.title | default: page.name | replace: '.md', '' }}]({{ page.url | relative_url }})
-{% endfor %}
+Материалы собраны так, чтобы помочь быстро разобраться в теме и найти ответы на частые вопросы как новичкам, так и опытным энтузиастам.
+
+## Ссылки
+
+- YouTube: [добавить ссылку]
+- Discord: [добавить ссылку]
+- Telegram: [добавить ссылку]
