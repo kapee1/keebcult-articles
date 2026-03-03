@@ -1,6 +1,5 @@
 ---
 title: Почему Gateron Low Profile?
-nav_exclude: true
 ---
 # Почему Gateron Low Profile?
 

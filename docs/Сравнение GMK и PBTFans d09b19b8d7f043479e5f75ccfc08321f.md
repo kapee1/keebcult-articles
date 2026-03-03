@@ -1,6 +1,5 @@
 ---
 title: Сравнение GMK и PBTFans
-nav_exclude: true
 ---
 # Сравнение GMK и PBTFans
 

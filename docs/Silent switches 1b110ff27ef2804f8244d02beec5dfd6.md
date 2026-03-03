@@ -1,6 +1,5 @@
 ---
 title: Silent switches
-nav_exclude: true
 ---
 # Silent switches
 

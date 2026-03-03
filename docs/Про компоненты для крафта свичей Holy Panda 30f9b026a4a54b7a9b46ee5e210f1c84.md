@@ -1,6 +1,5 @@
 ---
 title: Про компоненты для крафта свичей Holy Panda
-nav_exclude: true
 ---
 # Про компоненты для крафта свичей Holy Panda
 
