@@ -2,14 +2,14 @@ title: Keebcult Wiki
 description: Полная база знаний о механических клавиатурах
 remote_theme: just-the-docs/just-the-docs
 url: "https://yourusername.github.io"
-baseurl: "/index.html"
+baseurl: "/keebcult-articles"
 
 search_enabled: true
 search:
   heading_level: 2
 
 # Footer
-footer_content: "keebcult - самый дружелюбный чат о механических клавиатурах"
+footer_content: "Keebcult - самый дружелюбный чат о механических клавиатурах"
 
 # Navigation
 aux_links:
