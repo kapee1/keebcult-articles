@@ -11,6 +11,6 @@ nav_order: 1
 
 ## Ссылки
 
-- YouTube: [добавить ссылку]
-- Discord: [добавить ссылку]
-- Telegram: [добавить ссылку]
+- YouTube: [https://www.youtube.com/@keebcult](https://www.youtube.com/@keebcult)   
+- Discord: [https://discord.gg/JkTY44Yj](https://discord.gg/JkTY44Yj)
+- Telegram: [https://t.me/keebcult](https://t.me/keebcult)
