@@ -14,5 +14,4 @@ permalink: /
 ## Ссылки
 
 - YouTube: [https://www.youtube.com/@keebcult](https://www.youtube.com/@keebcult)   
-- Discord: [https://discord.gg/JkTY44Yj](https://discord.gg/JkTY44Yj)
 - Telegram: [https://t.me/keebcult](https://t.me/keebcult)
